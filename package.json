@@ -1,0 +1,22 @@
+{
+  "name": "login-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "lit": "^2.7.0",
+    "path-to-regexp": "^6.2.1"
+  }
+}
